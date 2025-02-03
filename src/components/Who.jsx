@@ -116,7 +116,7 @@ const Who = () => {
             <Subtitle>Who am I</Subtitle>
           </WhatWeDo>
           <Desc>
-            Full Stack .Net Developer, Turning ideas into seamless digital
+            Experienced Full Stack Developer With 3+ years of Experience, Turning ideas into seamless digital
             solutions with passion and precision.
           </Desc>
           {/* LinkedIn Button */}
